@@ -1,5 +1,5 @@
 <a href="#">
-<img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=neneee%20%20%20%20&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&animation=fadeIn&desc=game&descAlign=50&descAlignY=65"></img>
+<img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=neneee%20%20%20%20&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&animation=fadeIn&desc=Web&descAlign=50&descAlignY=65"></img>
 </a>
 
 <!--
