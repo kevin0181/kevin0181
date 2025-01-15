@@ -13,10 +13,10 @@
 - :v: Learning game development
 
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neneee0181&show_icons=true&theme=dracula"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin0181&show_icons=true&theme=dracula"></img>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin0181&layout=compact&theme=nord&hide_border=true" />
 </a> 
 
 
