@@ -16,7 +16,7 @@
 
  ### :star: Languages and Tools
 
-<a href="https://github.com/neneee0181">
+<a href="#">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> </t>
@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-<a href="#">
+<a href="https://github.com/neneee0181">
 <img align="center" src="https://readme-typing-svg.demolab.com/?lines=게임+개발+깃허브+가기;"></img>
 </a>
 
