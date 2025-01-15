@@ -2,7 +2,7 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=neneee%20%20%20%20&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&animation=fadeIn&desc=Web&descAlign=50&descAlignY=65"></img>
 </a>
 
-## :fire: Welcome to neneee_CODE!! :fire:
+## :fire: Welcome to neneee Github!! :fire:
 - :raising_hand: TUK in school
 - :v: Learning game development
 
