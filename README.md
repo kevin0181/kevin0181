@@ -24,6 +24,7 @@
 </a>
 
 <br/>
+<br/>
 <a href="#">
 <img align="center" src="https://readme-typing-svg.demolab.com/?lines=한국공학대학교+2022180024+유영빈;웹+개발+깃허브+입니다."></img>
 </a>
